@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**goldenreynard/goldenreynard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in New Delhi, India.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Apple Redesign](https://laracon.net) website;
+- 🇮🇳🇹 Planing the "Inventory Management App & Website";
+- 🍫 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Open Source**
+- ⚙️ I use daily: `.tsx`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
+- 🌍 I'm mostly active within the **Open Source Community**
+- 🌱 Learning all about **tRPC**
+- 💬 Ping me about **development**, **design thinking**, **Coding**
+- 📫 Reach me: [twitter.com/imskanand](https://twitter.com/imskanand)
+- ⚡️ Fun fact: I'm a huge fan of Christan Bale
