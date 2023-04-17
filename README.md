@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Apple Redesign](https://laracon.net) website;
+- ✨ Crafted last [Apple Redesign]() website;
 - 🇮🇳🇹 Planing the "Inventory Management App & Website";
 - 🍫 What about this?
 
