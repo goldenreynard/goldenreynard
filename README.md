@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I'm a Full-Stack Developer working in New Delhi, India.
+#### I'm a Full-Stack Developer working on `Rust` & `Svelte`.
 
 ##### NOW
 
